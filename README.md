@@ -1,2 +1,2 @@
 # DataScienceDetective
-Homework 3
+Homework 3 for CMSC320
